@@ -1,0 +1,15 @@
+opencv-contrib-python
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+Pillow
+ipython[all]
+jupyter
+torch
+torchvision
+pymc3
+pystan
+numba
