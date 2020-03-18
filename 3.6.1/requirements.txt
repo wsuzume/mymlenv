@@ -7,8 +7,10 @@ scipy
 scikit-learn
 scrapy
 Pillow
+GPy
 ipython[all]
 jupyter
+jupyterlab
 torch
 torchvision
 pymc3
